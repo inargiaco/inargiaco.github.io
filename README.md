@@ -1,11 +1,12 @@
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. `bundle install` [^1]
-4. `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hy-starter-kit/>
+# Stylish Portolio template for Jekyll
 
-[^1]: Requires Bundler. Install with `gem install bundler`.
+A Jekyll implementation of the [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) template by [Start Bootstrap](http://startbootstrap.com/).
 
-[download]: https://github.com/qwtel/hy-starter-kit/archive/master.zip
+See the site in action at https://volny.github.io/stylish-portfolio-jekyll/
+
+## To use the Stylish Portfolio template in your project
+
+- Start by adding your info in `_config.yml`
+- Add as many address lines as you want. Your address will also be used to show your location on the map.
+- For the emdeded map to work you'll need to [get a key from Google Maps Embed API](https://developers.google.com/maps/documentation/embed/?hl=en)
+- In `_layouts/front.html` reorder or remove section as you prefer.
