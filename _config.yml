@@ -7,8 +7,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner: INARGIA CO
+owner: INARGIA
 email: inargiaco@gmail.com
+linkedin: inargia
 facebook_username:
 twitter_username:
 github_username:
