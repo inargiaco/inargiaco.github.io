@@ -14,7 +14,7 @@ navigation:
     es: INARGIA
   about-us:
     en: About us
-    es: Acerca de
+    es: Sobre nosotros
   services:
     en: Services
     es: Servicios
@@ -26,11 +26,38 @@ navigation:
     es: Contacto
 about:
   title:
-    en: What is INARGIA?
-    es: Qué es INARGIA?
+    en: About us
+    es: Sobre nosotros
   description:
-    en: We are an organization that provides engineering solutions focused on renewable energies worldwide.
-    es: Somos una organización que brinda soluciones de ingeniería enfocadas en energías renovables a nivel mundial.
+    en: INARGIA is a company that provides engineering solutions focused on renewable energies worldwide.
+    es: INARGIA es una compañía que brinda soluciones de ingeniería enfocadas en energías renovables a nivel mundial.
+  values-title:
+    en: Our values
+    es: Nuestros valores
+  values1:
+    en: We encourage constant learning and application of new technologies.
+    es: Fomentamos el aprendizaje constante y aplicación de nuevas tecnologías.
+  values2:
+    en: We maintain a personalized relationship with the client.
+    es: Mantenemos una relación personalizada con el cliente.
+  values3:
+    en: We commit ourselves to challenges until we see achievements.
+    es: Nos comprometemos con desafíos hasta ver logros.
+  values4:
+    en: We are involved in the care of the environment and the reduction of greenhouse gases by promoting clean energy technologies.
+    es: Nos involucramos en el cuidado del medio ambiente y la reducción de gases de efecto invernadero promocionando tecnologías de energía limpia.
+  mission-title:
+    en: Mission
+    es: Misión
+  mission-description:
+    en: Reduce maintenance costs related to photovoltaic installations and simplify the operational structure of the client, providing an efficient service of continuous improvement.
+    es: Reducir los costos de mantenimiento relacionados a instalaciones fotovoltaicas y simplificar la estructura operativa del cliente, proporcionando a su vez un servicio eficiente de mejora continua.
+  vision-title:
+    en: Vision
+    es: Visión
+  vision-description:
+    en: To be a leading company in renewable energy services, being recognized worldwide not only for the quality of the service, but also for the great involvement with the environment and the intelligent use of resources.
+    es: Ser una compañía líder en servicios de energías renovables, siendo reconocida a nivel mundial no solo por la calidad del servicio, sino por la gran implicación con el medio ambiente y el uso inteligente de los recursos.
 services:
   title:
     en: Our services
@@ -81,3 +108,19 @@ use-cases:
   industrial-description2:
     en: .
     es: .
+contact:
+  title:
+    en: Contact us
+    es: Contáctanos
+  name:
+    en: Name
+    es: Nombre
+  email:
+    en: Email
+    es: Email
+  message:
+    en: Message
+    es: Mensaje
+  send:
+    en: Send message
+    es: Enviar mensaje
