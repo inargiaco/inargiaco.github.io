@@ -1,0 +1,38 @@
+<section id="contact" class="portfolio">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 col-lg-offset-1 text-center">
+        <h2>{{ site.data.translations.contact.title[page.lang] }}</h2>
+        <hr class="small">
+        <div class="row">
+          <div class="container">
+            <form id="contactform" action="//formspree.io/info@inargiaco.com" method="POST">
+              <div class="col-sm-10">
+                <div class="row">
+                  <div class="col-sm-6 form-group">
+                    <input class="form-control" id="name" name="name" placeholder="{{ site.data.translations.contact.name[page.lang] }}" type="text" required>
+                  </div>
+                  <div class="col-sm-6 form-group">
+                    <input class="form-control" id="email" name="email" placeholder="{{ site.data.translations.contact.email[page.lang] }}" type="email" required>
+                  </div>
+                </div>
+                <textarea class="form-control" id="comments" name="message" placeholder="{{ site.data.translations.contact.message[page.lang] }}" rows="5"></textarea><br>
+                <div class="row">
+                  <div class="col-sm-12 form-group">
+                    <button class="btn btn-primary pull-right" type="submit">{{ site.data.translations.contact.send[page.lang] }}</button>
+                  </div>
+                </div>
+              </div>
+              <input type="text" name="_gotcha" style="display:none" />
+            </form>
+          </div>
+
+        </div>
+        <!-- /.row (nested) -->
+      </div>
+      <!-- /.col-lg-10 -->
+    </div>
+    <!-- /.row -->
+  </div>
+
+</section>
