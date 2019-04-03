@@ -1,23 +1,31 @@
-<a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
+<a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle">
+  <i class="fa fa-bars" ></i>
+</a>
+<div id="language-toggle">
+  {% for lang in site.data.languages %}
+  {% assign language = lang[1] %}
+  <a href="/{{lang[0]}}">{{language.icon}}</a>
+  {% endfor %}
+</div>
 <nav id="sidebar-wrapper">
   <ul class="sidebar-nav">
     <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle">
       <i class="fa fa-times"></i>
     </a>
     <li class="sidebar-brand">
-      <a href="#top"  onclick = $("#menu-close").click(); >INARGIA CO</a>
+      <a href="#top"  onclick = $("#menu-close").click(); >{{ site.data.translations.navigation.title[page.lang] }}</a>
     </li>
     <li>
-      <a href="#about" onclick = $("#menu-close").click(); >Acerca de</a>
+      <a href="#about" onclick = $("#menu-close").click(); >{{ site.data.translations.navigation.about-us[page.lang] }}</a>
     </li>
     <li>
-      <a href="#services" onclick = $("#menu-close").click(); >Servicios</a>
+      <a href="#services" onclick = $("#menu-close").click(); >{{ site.data.translations.navigation.services[page.lang] }}</a>
     </li>
     <li>
-      <a href="#casos-de-uso" onclick = $("#menu-close").click(); >Casos de uso</a>
+      <a href="#casos-de-uso" onclick = $("#menu-close").click(); >{{ site.data.translations.navigation.use-cases[page.lang] }}</a>
     </li>
     <li>
-      <a href="#contact" onclick = $("#menu-close").click(); >Contacto</a>
+      <a href="#contact" onclick = $("#menu-close").click(); >{{ site.data.translations.navigation.contact[page.lang] }}</a>
     </li>
   </ul>
 </nav>

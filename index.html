@@ -1,3 +1,22 @@
 ---
-layout: front
+layout: null
+ref: index
 ---
+
+<html lang="{{ site.lang }}">
+
+    {% include head.html %}
+
+<body>
+
+    <script>
+        var lang = navigator.language || navigator.userLanguage;
+        if (lang.indexOf('es') == 0)
+            window.location = '/es/';
+        else
+            window.location = '/en/';
+    </script>
+
+</body>
+
+</html>

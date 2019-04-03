@@ -1,0 +1,83 @@
+header:
+  name:
+    en: INARGIA
+    es: INARGIA
+  description:
+    en: Engineering Applied in Energy.
+    es: Ingeniería Aplicada en Energía.
+  read-more:
+    en: Read more
+    es: Leer más
+navigation:
+  title:
+    en: INARGIA
+    es: INARGIA
+  about-us:
+    en: About us
+    es: Acerca de
+  services:
+    en: Services
+    es: Servicios
+  use-cases:
+    en: Use cases
+    es: Casos de uso
+  contact:
+    en: Contact
+    es: Contacto
+about:
+  title:
+    en: What is INARGIA?
+    es: Qué es INARGIA?
+  description:
+    en: We are an organization that provides engineering solutions focused on renewable energies worldwide.
+    es: Somos una organización que brinda soluciones de ingeniería enfocadas en energías renovables a nivel mundial.
+services:
+  title:
+    en: Our services
+    es: Nuestros servicios
+  presentation-title:
+    en: Presentation
+    es: Presentación
+  presentation-description:
+    en: We simplify the operational structure through presentation of data from our virtual tools.
+    es: Simplificamos la estructura operativa mediante nuestras herramientas virtuales de presentación de datos.
+  analysis-title:
+    en: Analysis
+    es: Análisis
+  analysis-description:
+    en: We generate an immediate reduction in maintenance costs through predictive data analysis.
+    es: Generamos una reducción inmediata del costo de mantenimiento mediante el análisis predictivo de datos.
+  optimization-title:
+    en: Optimization
+    es: Optimización
+  optimization-description:
+    en: We provide continuous review services that guarantee an optimized installation.
+    es: Brindamos servicios de revisión continua que garanticen una instalación optimizada.
+use-cases:
+  title:
+    en: Use cases
+    es: Casos de uso
+  domestic-short:
+    en: DOMESTIC
+    es: DOMÉSTICO
+  domestic-long:
+    en: Solar energy at the domestic level
+    es: Energía solar a nivel doméstico
+  domestic-description1:
+    en: Solar panel installations for private use requires durability and minimal maintenance, to ensure the best return on investment.
+    es: Instalaciones de paneles solares para uso particular requiere durabilidad y mantenimiento mínimo, para asegurar el mejor retorno de la inversión.
+  domestic-description2:
+    en: We offer the installation of our sensors in your active plants or about to be, and that's it! Our system will be in charge of providing accurate measurement values in real time and also reports from our analysts or our Machine Learning system.
+    es: Nosotros ofrecemos la instalación de nuestros sensores en sus plantas ya activas o por serlo, y listo! Nuestro sistema se encargará de proveerle en tiempo real los valores de medición precisos y también reportes provenientes de nuestros analistas o de nuestro sistema de Machine Learning.
+  industrial-short:
+    en: INDUSTRIAL
+    es: INDUSTRIAL
+  industrial-long:
+    en: Solar energy at industrial level
+    es: Energía solar a nivel industrial
+  industrial-description1:
+    en: .
+    es: .
+  industrial-description2:
+    en: .
+    es: .

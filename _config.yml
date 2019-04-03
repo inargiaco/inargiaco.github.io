@@ -1,26 +1,13 @@
 # Site settings
-title: INARGIA CO
-description: > # this means to ignore newlines until "baseurl:"
-  Ingeniería Aplicada en Energía.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: INARGIA
+description:
+  en: Engineering Applied in Energy.
+  es: Ingeniería Aplicada en Energía.
+url: "https://www.inargiaco.com"
 
 # User setting
-owner: INARGIA
 email: info@inargiaco.com
 linkedin: inargia
-facebook_username:
-twitter_username:
-github_username:
-address:
-  - line:
-  - line:
-  # Feel free to add more lines here
-telephone:
-copyright:
-
-# API settings
-google_api_key:
 
 # Build settings
 markdown: kramdown

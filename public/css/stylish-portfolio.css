@@ -157,6 +157,16 @@ hr.small {
     right: 0;
 }
 
+#language-toggle {
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    right: 60px;
+    text-align: end;
+    font-size: 30px;
+    line-height: 2em
+}
+
 #sidebar-wrapper.active {
     right: 250px;
     width: 250px;
@@ -185,7 +195,7 @@ hr.small {
            rgba(0, 0, 0, 0.7)
          ),
          /* bottom, image */
-         url(../img/bg.jpg) no-repeat center center scroll;
+         url(/public/img/bg.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
