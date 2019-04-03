@@ -34,16 +34,28 @@ about:
   values-title:
     en: Our values
     es: Nuestros valores
-  values1:
+  innovation-title:
+    en: INNOVATION
+    es: INNOVACIÓN
+  innovation-description:
     en: We encourage constant learning and application of new technologies.
     es: Fomentamos el aprendizaje constante y aplicación de nuevas tecnologías.
-  values2:
+  commitment-title:
+    en: COMMITMENT
+    es: COMPROMISO
+  commitment-description:
     en: We maintain a personalized relationship with the client.
     es: Mantenemos una relación personalizada con el cliente.
-  values3:
+  passion-title:
+    en: PASSION
+    es: PASIÓN
+  passion-description:
     en: We commit ourselves to challenges until we see achievements.
     es: Nos comprometemos con desafíos hasta ver logros.
-  values4:
+  eco-title:
+    en: ECO-FRIENDLY
+    es: ECOLÓGICO
+  eco-description:
     en: We are involved in the care of the environment and the reduction of greenhouse gases by promoting clean energy technologies.
     es: Nos involucramos en el cuidado del medio ambiente y la reducción de gases de efecto invernadero promocionando tecnologías de energía limpia.
   mission-title:
