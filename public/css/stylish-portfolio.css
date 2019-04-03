@@ -184,11 +184,11 @@ hr.small {
            rgba(0, 0, 0, 0.7)
          ),
          /* bottom, image */
-         url(/public/img/bg.jpg) no-repeat center center scroll;
+         url(/public/img/bg.jpg) no-repeat center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: cover;
     -o-background-size: cover;
+    background-size: cover;
 }
 
 /* About */
