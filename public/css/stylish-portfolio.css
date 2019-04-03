@@ -126,17 +126,6 @@ hr.small {
     background: none;
 }
 
-/*.use-case-overlay {
-    position: absolute;
-    top: 0;
-    left: 10;
-    height: 100%;
-    width: 100%;
-    opacity: 0;
-    transition: .5s ease;
-    background-color: #2c6fae;
-}*/
-
 .use-case-overlay-text {
     color: black;
     position: absolute;
@@ -231,6 +220,15 @@ hr.small {
 
 .portfolio-item:hover .use-case-overlay-text {
     opacity: 1;
+}
+
+.header-logo{
+    max-width: 30%;
+    min-width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .img-use-case-banner {
