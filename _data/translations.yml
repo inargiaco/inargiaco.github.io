@@ -41,20 +41,20 @@ about:
     en: We encourage constant learning and application of new technologies.
     es: Fomentamos el aprendizaje constante y aplicación de nuevas tecnologías.
   commitment-title:
-    en: COMMITMENT
-    es: COMPROMISO
+    en: LINK
+    es: VÍNCULO
   commitment-description:
     en: We maintain a personalized relationship with the client.
     es: Mantenemos una relación personalizada con el cliente.
   passion-title:
-    en: PASSION
-    es: PASIÓN
+    en: COMMITMENT
+    es: COMPROMISO
   passion-description:
     en: We commit ourselves to challenges until we see achievements.
     es: Nos comprometemos con desafíos hasta ver logros.
   eco-title:
-    en: ECO-FRIENDLY
-    es: ECOLÓGICO
+    en: ECOLOGY
+    es: ECOLOGÍA
   eco-description:
     en: We are involved in the care of the environment and the reduction of greenhouse gases by promoting clean energy technologies.
     es: Nos involucramos en el cuidado del medio ambiente y la reducción de gases de efecto invernadero promocionando tecnologías de energía limpia.
@@ -75,8 +75,8 @@ services:
     en: Our services
     es: Nuestros servicios
   presentation-title:
-    en: Presentation
-    es: Presentación
+    en: Visualization
+    es: Visualización
   presentation-description:
     en: We simplify the operational structure through presentation of data from our virtual tools.
     es: Simplificamos la estructura operativa mediante nuestras herramientas virtuales de presentación de datos.
@@ -84,14 +84,14 @@ services:
     en: Analysis
     es: Análisis
   analysis-description:
-    en: We generate an immediate reduction in maintenance costs through predictive data analysis.
-    es: Generamos una reducción inmediata del costo de mantenimiento mediante el análisis predictivo de datos.
+    en: We generate an immediate reduction in maintenance costs through predictive study of data.
+    es: Generamos una reducción inmediata del costo de mantenimiento mediante el estudio predictivo de datos.
   optimization-title:
     en: Optimization
     es: Optimización
   optimization-description:
-    en: We provide continuous review services that guarantee an optimized installation.
-    es: Brindamos servicios de revisión continua que garanticen una instalación optimizada.
+    en: We provide continuous review services that guarantee an efficient installation.
+    es: Brindamos servicios de revisión continua que garanticen una instalación eficiente.
 use-cases:
   title:
     en: Use cases
